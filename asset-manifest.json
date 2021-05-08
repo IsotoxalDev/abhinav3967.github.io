@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf022aaf.chunk.css",
-    "main.js": "/static/js/main.bd50af7a.chunk.js",
-    "main.js.map": "/static/js/main.bd50af7a.chunk.js.map",
+    "main.css": "/static/css/main.75550a77.chunk.css",
+    "main.js": "/static/js/main.b98f2bf8.chunk.js",
+    "main.js.map": "/static/js/main.b98f2bf8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e50639b4.js",
     "runtime-main.js.map": "/static/js/runtime-main.e50639b4.js.map",
     "static/js/2.abdee5f1.chunk.js": "/static/js/2.abdee5f1.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.b4a6a797.chunk.js": "/static/js/3.b4a6a797.chunk.js",
     "static/js/3.b4a6a797.chunk.js.map": "/static/js/3.b4a6a797.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.cf022aaf.chunk.css.map": "/static/css/main.cf022aaf.chunk.css.map",
+    "static/css/main.75550a77.chunk.css.map": "/static/css/main.75550a77.chunk.css.map",
     "static/js/2.abdee5f1.chunk.js.LICENSE.txt": "/static/js/2.abdee5f1.chunk.js.LICENSE.txt",
     "static/media/Logo.f5368070.svg": "/static/media/Logo.f5368070.svg",
     "static/media/index.css": "/static/media/mononoki-Regular Nerd Font Complete Mono.08ff28b4.ttf"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.e50639b4.js",
     "static/js/2.abdee5f1.chunk.js",
-    "static/css/main.cf022aaf.chunk.css",
-    "static/js/main.bd50af7a.chunk.js"
+    "static/css/main.75550a77.chunk.css",
+    "static/js/main.b98f2bf8.chunk.js"
   ]
 }
